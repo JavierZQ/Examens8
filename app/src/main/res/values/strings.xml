@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AppCuestionario</string>
+    <string name="boton_verdadero">TRUE</string>
+    <string name="boton_falso">FALSE</string>
+    <string name="TXTpreguntas">La independecia es 1995</string>
+    <string name="boton_siguiente">NEXT</string>
+    <string name="siguiente">Next</string>
+    <string name="atras">BACK</string>
+
+
+</resources>
